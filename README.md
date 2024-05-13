@@ -1,3 +1,3 @@
 # rockpaperscissors
 
-Rock, Paper, Scissors console application for web, made in JavaScript.
+Rock, Paper, Scissors application for web, made in JavaScript.
