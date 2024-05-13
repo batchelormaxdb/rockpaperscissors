@@ -1,0 +1,28 @@
+.main-container {
+    width: 100vw;
+    height: auto;
+    padding-top: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.results {
+    font-size: 32px;
+}
+.button-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    width: auto;
+    height: 50px;
+    flex-shrink: 0;
+    gap: 10px;
+}
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100px;
+}
